@@ -1,5 +1,5 @@
 *** Settings ***
-Library    OpenCVLibrary
+Library    cv2
 Library    numpy
 
 *** Variables ***
